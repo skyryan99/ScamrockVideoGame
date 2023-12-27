@@ -1,4 +1,4 @@
 # ScamrockVideoGame
 4X meets deckbuilder game
 
-https://docs.google.com/document/d/13km81ilVaz2eTviPFV6bbTRgqgBoDZKYNVX9JOWgWtc/edit
+https://drive.google.com/drive/u/1/folders/11Tl6HUHy158lKGbVHLZlufsvPnSne0NU
